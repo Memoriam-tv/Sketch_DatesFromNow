@@ -1,14 +1,14 @@
 {
-  "name": "datademo",
+  "name": "DatesFromNow",
   "version": "0.1.0",
   "description": "A DataSupplier plugin",
   "engines": {
     "sketch": ">=3.0"
   },
   "skpm": {
-    "name": "datademo",
+    "name": "DatesFromNow",
     "manifest": "src/manifest.json",
-    "main": "datademo.sketchplugin",
+    "main": "DatesFromNow.sketchplugin",
     "assets": [
       "assets/**/*"
     ]

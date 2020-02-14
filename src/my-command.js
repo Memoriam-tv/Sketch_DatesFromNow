@@ -4,8 +4,12 @@ const util = require("util");
 
 export function onStartup() {
   // To register the plugin, uncomment the relevant type:
-  DataSupplier.registerDataSupplier("public.text", "datademo", "SupplyData");
-  // DataSupplier.registerDataSupplier('public.image', 'datademo', 'SupplyData')
+  DataSupplier.registerDataSupplier(
+    "public.text",
+    "DatesFromNow",
+    "SupplyData"
+  );
+  // DataSupplier.registerDataSupplier('public.image', 'DatesFromNow', 'SupplyData')
 }
 
 export function onShutdown() {
