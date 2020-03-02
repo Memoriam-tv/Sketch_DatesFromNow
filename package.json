@@ -1,7 +1,7 @@
 {
   "name": "DatesFromNow",
   "version": "0.1.0",
-  "description": "A DataSupplier plugin",
+  "description": "Simple data plugin to fill dates from now",
   "engines": {
     "sketch": ">=3.0"
   },
@@ -22,5 +22,9 @@
   "devDependencies": {
     "@skpm/builder": "^0.5.2"
   },
-  "author": "Leon Berenschot <leon@wendbaar.nl>"
+  "author": "Leon Berenschot <leon@wendbaar.nl>",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:LeipeLeon/Sketch_DatesFormNow.git"
+  }
 }
