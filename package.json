@@ -1,6 +1,6 @@
 {
   "name": "DatesFromNow",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Simple data plugin to fill dates from now",
   "engines": {
     "sketch": ">=3.0"
